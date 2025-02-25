@@ -1,1 +1,0 @@
-// Este arquivo é destinado a scripts JavaScript que podem ser utilizados para interações adicionais, embora o foco principal seja o uso do JavaScript do Bootstrap.
